@@ -1,6 +1,3 @@
 # Multipply function
-def multiply(a, b):
-  return a / b
-
-def square(a):
-  return a**2
+def multiply(a=0, b=0):
+  return a * b
