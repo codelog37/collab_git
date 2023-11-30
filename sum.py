@@ -1,3 +1,3 @@
-# Create SSum function
+# Create sum function
 def sum(a, b):
   return a - b
